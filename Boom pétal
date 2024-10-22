@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BloomPetals</title>
+    <style>
+        body {
+        	 background-color:  #88c1d0 ;
+            font-family:Papyrus; sans-serif;
+            margin: 0;
+            padding: 200 ;
+        }
+        header {
+             padding: 25px;
+            background-color:  #ffca4b ;
+            position: relative;
+            bottom: ;
+            width: 100%;
+        }
+        nav {
+            margin: 0px 5;
+        }
+        nav a {
+            margin:  20 px;
+            text-decoration: none;
+            color: #333;
+        }
+        <div> {
+            padding: 20px;
+        }
+        .services {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .service {
+            width: 300px;
+            height: 200px;
+            margin: 10px;
+            background-color: #275fa0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border:0px solid #ccc;
+        }
+        footer {
+         padding: 25px;
+            background-color:#ffffff;
+            position: to come down ;
+            bottom:40;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+     <nav>
+        <a href="#home">Home</a>
+        &nbsp;&nbsp;
+         <a href="#entreprise">Entreprise</a>
+         &nbsp;&nbsp;
+           <a href="#realisations">Réalisations</a>
+           &nbsp;&nbsp;
+             <a href="#contact">Contact</a>
+    </nav>
+</header>
+<big><big><center><h1>Bloom Pétal</h1>
+</center></big></big>
+<section>
+    <h2>À Propos</h2>
+    <p>Chez BloomPetals, nous croyons que chaque célébration mérite d'être parée de la beauté
+naturelle des fleurs. Nous sommes une entreprise passionnée et créative spécialisée dans
+la confection de magnifiques bouquets floraux pour embellir vos événements spéciaux. Que
+ce soit un mariage, un anniversaire, une réception ou toute autre occasion festive, nos
+artisans floraux talentueux travaillent avec dévouement pour créer des arrangements
+uniques et époustouflants qui émerveilleront vos invités.</p>
+</section>
+
+<section>
+    <h2>Notre engagement</h2>
+    <p>Nous nous engageons à apporter une touche florale élégante et raffinée à chaque
+événement. Chaque bouquet que nous créons est un mélange harmonieux de couleurs
+vibrantes, de textures luxuriantes et d'arômes enivrants. Notre équipe expérimentée
+collabore étroitement avec vous pour comprendre vos besoins et vos préférences, puis
+transforme ces idées en arrangements floraux exceptionnels qui complètent parfaitement
+l'ambiance de votre fête.</p>
+</section>
+
+<section>
+    <h2>Pourquoi Choisir BloomPetals ?</h2>
+    <p>
+<li>Créativité Illimitée : Nous repoussons les limites de la créativité pour concevoir des
+bouquets uniques et mémorables qui ajoutent une touche magique à votre
+événement.</li>
+<li> Fleurs Fraîches et Durables : Nous sélectionnons uniquement les fleurs les plus
+fraîches et de la plus haute qualité pour garantir la beauté de nos créations du début
+à la fin de votre fête.</li>
+<li>Service Personnalisé : Notre équipe dévouée est à votre écoute à chaque étape,
+offrant un service personnalisé pour répondre à vos besoins spécifiques et surpasser
+vos attentes.</li> 
+<li>Ponctualité et Professionnalisme : Nous sommes fiers de notre ponctualité et de
+notre professionnalisme. Nous livrons nos créations à temps et installons chaque
+arrangement avec soin et précision.</li>
+Faites de votre prochain événement un moment inoubliable avec BloomPetals. Laissez-nous
+transformer votre espace en un véritable jardin de féerie, où chaque pétale raconte une
+histoire d'amour, de bonheur et de célébration. 
+1</p>
+</section>
+<section>
+    <div class="container">
+ <img src="fleure1.jpg" width="350">
+ <img src="image9.jpg." width="350">
+<img src="fleure3.jpg" width="350">
+<img src="fleur4.jpg" width="350">
+</div>
+</section>
+<div class="service_box">
+    
+    <ul>
+        <div class=service_box>
+        
+        <li>
+            <h3>1 - Création de bouquets personnalisés</h3>
+            <p>BloomPetals offre un service de création de bouquets floraux entièrement personnalisés pour toutes les occasions. Que ce soit pour un mariage élégant, un anniversaire chaleureux ou un événement d'entreprise sophistiqué, notre équipe d'artisans floraux talentueux travaille en étroite collaboration avec les clients pour concevoir des arrangements sur mesure, adaptés à leurs goûts et à l'ambiance de l'événement.</p>
+        </li>
+        
+        <li>
+            <h3>2 - Décoration Florale d'Événements</h3>
+            <p>Notre équipe de professionnels se spécialise dans la décoration florale d'événements. Nous transformons les lieux de fêtes en espaces enchanteurs en utilisant des fleurs fraîches et luxuriantes. Des centres de table élégants aux arches florales majestueuses, nous concevons des décors floraux qui éblouissent et captivent les invités. Notre service comprend également la livraison, l'installation et la décoration sur place pour garantir une expérience sans stress pour nos clients.</p>
+        </li>
+        
+        <li>
+            <h3>3 - Ateliers de Composition Florale</h3>
+            <p>En plus de nos services de décoration et de création de bouquets, BloomPetals propose des ateliers de composition florale interactifs. Ces ateliers sont parfaits pour les amateurs de fleurs et les passionnés de design floral. Nos experts partagent leurs connaissances et leurs compétences, guidant les participants dans la création de leurs propres arrangements floraux. C'est une expérience enrichissante et ludique, idéale pour les événements d'entreprise, les enterrements de vie de jeune fille ou les fêtes privées. Les participants repartent avec leurs créations florales uniques et des souvenirs mémorables de l'atelier.</p>
+        </li>
+    </ul>
+    <section>
+    <div class="container">
+ <img src="équipe1.jpg" width="400">
+ <img src="équipe2.jpg." width="300">
+<img src="équipe3.jpg" width="450">
+<img src="équipe4.jpg" width="300">
+</div>
+</section>
+    </div>
+</section>
+<a href="https://github.com/lou-francoz">Cliquer ici pour visiter mon profil GitHub</a>
+</body>
+</html>
